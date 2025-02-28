@@ -45,25 +45,6 @@ This Java Tamagotchi Game allows you to adopt and care for a virtual pet. Your p
    java -cp bin Main
    ```
 
-### Project Structure
-
-```
-java-tamagotchi/
-├── src/
-│   ├── Main.java             # Entry point
-│   ├── Pet.java              # Pet class with attributes and methods
-│   ├── GameManager.java      # Manages game state and logic
-│   ├── ui/                   # UI components
-│   │   ├── GameWindow.java   # Main game window
-│   │   └── ...
-│   ├── util/                 # Utility classes
-│   │   ├── SaveManager.java  # Handles saving/loading
-│   │   └── ...
-├── resources/                # Images and sounds
-├── saves/                    # Directory for saved games
-└── README.md                 # This file
-```
-
 ## Future Enhancements
 
 - More pet types with unique characteristics
